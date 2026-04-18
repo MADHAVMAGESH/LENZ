@@ -1,0 +1,1 @@
+<contents of the Paper Viewer screen>

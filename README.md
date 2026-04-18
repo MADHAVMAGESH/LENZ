@@ -1,2 +1,1 @@
-# LENZ
-"AI-powered Question Paper Analysis Assistant with Glassmorphism UI"
+<updated README with run instructions>
